@@ -47,7 +47,7 @@ published: true
         <h4>Seongnam-si, Korea</h4>
       </div>
     </div>
-    <p>Translated online lessons for developers at NAVER I&S. Translated the <a href="https://www.udacity.com/course/android-performance--ud825">Android Performance</a> course built by Google from English to Korean.</p>
+    <p>Translated online lessons for developers at NAVER I&S. Translated the <a href="https://www.udacity.com/course/android-performance--ud825" target="_blank">Android Performance</a> course built by Google from English to Korean.</p>
   </div>
 </div>
 
