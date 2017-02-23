@@ -47,7 +47,7 @@ published: true
         <h4>Seongnam-si, Korea</h4>
       </div>
     </div>
-    <p>Translated online lessons for developers at NAVER I&S. Translated the [Android Performance](https://www.udacity.com/course/android-performance--ud825) course built by Google from English to Korean.</p>
+    <p>Translated online lessons for developers at NAVER I&S. Translated the <a href="https://www.udacity.com/course/android-performance--ud825">Android Performance</a> course built by Google from English to Korean.</p>
   </div>
 </div>
 
@@ -177,7 +177,7 @@ published: true
         <h3>Information Processing Engineer Certification</h3>
       </div>
       <div class="when">
-        <h3>??????????</h3>
+        <h3>June 2016</h3>
       </div>
     </div>
   </div>
@@ -188,7 +188,7 @@ published: true
         <h3>TOEIC</h3>
       </div>
       <div class="when">
-        <h3>??????????</h3>
+        <h3>April 2016</h3>
       </div>
       <div class="score">
         <h4>990</h4>
