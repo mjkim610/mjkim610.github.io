@@ -47,7 +47,7 @@ published: true
         <h4>Seongnam-si, Korea</h4>
       </div>
     </div>
-    <p>Translated online lessons for developers at NAVER I&S. Translated the "Android Performance" course built by Google from English to Korean.</p>
+    <p>Translated online lessons for developers at NAVER I&S. Translated the [Android Performance](https://www.udacity.com/course/android-performance--ud825) course built by Google from English to Korean.</p>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ published: true
   <div class="block">
     <div class="main-row">
       <div class="org">
-        <h3>Yonsei University Computer and Communications Lab</h3>
+        <h3>Yonsei University Computer & Communications Lab</h3>
       </div>
       <div class="when">
         <h3>July 2016 - December 2016</h3>
@@ -117,6 +117,81 @@ published: true
       </div>
       <div class="location">
         <h4>Seoul, Korea</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2 id="recognitionandawards">
+    Recognition & Awards
+  </h2>
+  <hr/>
+  <div class="block">
+    <div class="main-row">
+      <div class="org">
+        <h3>Computer Science Department Graduation Exhibition (Yonsei University)</h3>
+      </div>
+      <div class="when">
+        <h3>December 2016</h3>
+      </div>
+    </div>
+    <div class="sub-row">
+      <div class="role">
+        <h4>1st place</h4>
+      </div>
+      <div class="location">
+        <h4>Seoul, Korea</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="block">
+    <div class="main-row">
+      <div class="org">
+        <h3>KOSS Hackathon (Ministry of Science, ICT, and Future Planning)</h3>
+      </div>
+      <div class="when">
+        <h3>October 2016</h3>
+      </div>
+    </div>
+    <div class="sub-row">
+      <div class="role">
+        <h4>Individual category</h4>
+      </div>
+      <div class="location">
+        <h4>Seoul, Korea</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2 id="certification">
+    Certification
+  </h2>
+  <hr/>
+  <div class="block">
+    <div class="main-row">
+      <div class="org">
+        <h3>Information Processing Engineer Certification</h3>
+      </div>
+      <div class="when">
+        <h3>??????????</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="block">
+    <div class="main-row">
+      <div class="org">
+        <h3>TOEIC</h3>
+      </div>
+      <div class="when">
+        <h3>??????????</h3>
+      </div>
+      <div class="score">
+        <h4>990</h4>
       </div>
     </div>
   </div>
