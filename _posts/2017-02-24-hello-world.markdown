@@ -8,7 +8,7 @@ System.out.println("Hello, World!");
 {% endhighlight %}
 
 Welcome to my github.io.
-This GitHub Page is mainly for me to try out Jekyll and Travis CI. Therefore the site will not be rigorously maintained. Nevertheless, thank you for visiting!
+This GitHub Page is mainly for me to try out Jekyll, Travis CI, and other tools. Therefore the site will not be rigorously maintained. Nevertheless, thank you for visiting!
 
 If you would like to get in touch with me, check out the [contact][mjkim610-contact] page.
 

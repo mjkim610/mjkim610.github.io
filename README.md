@@ -1,4 +1,5 @@
-# Welome to mjkim610.github.io!
+# Welcome to `mjkim610.github.io`!
+[![Build Status](https://travis-ci.org/mjkim610/mjkim610.github.io.svg?branch=master)](https://travis-ci.org/mjkim610/mjkim610.github.io)
 
 ## Template
 This website is based on [Hagura](http://webjeda.com/hagura).
@@ -10,7 +11,7 @@ This website is based on [Hagura](http://webjeda.com/hagura).
 #### Travis CI
 - [Travis CI for Jekyll](https://jekyllrb.com/docs/continuous-integration/travis-ci/)
 - [Travis for Jekyll on GitHub Pages](https://jaicab.com/2016/04/05/travis-for-jekyll-on-github-pages/)
-- [999 Error for Linkedin urls](https://github.com/gjtorikian/html-proofer/issues/215)
+- [999 error for Linkedin urls](https://github.com/gjtorikian/html-proofer/issues/215)
 
 ## License
 ```
