@@ -6,6 +6,12 @@ This website is based on [Hagura](http://webjeda.com/hagura).
 ## Third Party Resources
 - [Font Awesome](http://fontawesome.io)
 
+## Useful Links
+#### Travis CI
+- [Travis CI for Jekyll](https://jekyllrb.com/docs/continuous-integration/travis-ci/)
+- [Travis for Jekyll on GitHub Pages](https://jaicab.com/2016/04/05/travis-for-jekyll-on-github-pages/)
+- [999 Error for Linkedin urls](https://github.com/gjtorikian/html-proofer/issues/215)
+
 ## License
 ```
 MIT License
