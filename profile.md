@@ -13,10 +13,30 @@ published: true
   <div class="block">
     <div class="main-row">
       <div class="org">
+        <h3>Amazon Web Services</h3>
+      </div>
+      <div class="when">
+        <h3>March 2017 - Now</h3>
+      </div>
+    </div>
+    <div class="sub-row">
+      <div class="role">
+        <h4>Intern, Infrastructure Operations</h4>
+      </div>
+      <div class="location">
+        <h4>Seoul, Korea</h4>
+      </div>
+    </div>
+    <p>Installed and performed hardware/software troubleshooting on AWS servers. Authored scripts to help simplify infrastructure operations workflow.</p>
+  </div>
+
+  <div class="block">
+    <div class="main-row">
+      <div class="org">
         <h3>LG CNS</h3>
       </div>
       <div class="when">
-        <h3>Febuary 2017 - Now</h3>
+        <h3>Febuary 2017 - March 2017</h3>
       </div>
     </div>
     <div class="sub-row">
