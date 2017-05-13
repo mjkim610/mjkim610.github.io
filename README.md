@@ -13,6 +13,9 @@ This website is based on [Hagura](http://webjeda.com/hagura).
 - [Travis for Jekyll on GitHub Pages](https://jaicab.com/2016/04/05/travis-for-jekyll-on-github-pages/)
 - [999 error for Linkedin urls](https://github.com/gjtorikian/html-proofer/issues/215)
 
+#### GPG Signing
+- [GitHub Signing with GPG](https://help.github.com/articles/signing-commits-with-gpg/)
+
 ## License
 ```
 MIT License

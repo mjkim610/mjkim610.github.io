@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github PGP"
+title:  "GitHub GPG"
 date:   2017-05-13 15:39:00 +0900
 ---
 ```
@@ -57,6 +57,7 @@ Xg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-This is a test post to check PGP signing for Github commits. Learn about PGP signing [here][pgp-signing].
+This is a test post to check GPG signing for GitHub commits. Learn about GPG signing [here][gpg-signing]. The instructions does not have this information, but I had to set a git configuration for the GPG directory on a Mac computer.
+`git config --global gpg.program $(which gpg)`
 
-[pgp-signing]: https://help.github.com/articles/signing-commits-with-gpg/
+[gpg-signing]: https://help.github.com/articles/signing-commits-with-gpg/
