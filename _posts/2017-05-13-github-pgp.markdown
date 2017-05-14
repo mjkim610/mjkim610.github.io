@@ -57,7 +57,11 @@ Xg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-This is a test post to check GPG signing for GitHub commits. Learn about GPG signing [here][gpg-signing]. The instructions does not have this information, but I had to set a git configuration for the GPG directory on a Mac computer.
+This is a test post to check GPG signing for GitHub commits. Learn about GPG signing [here][gpg-signing]. Visit this site's [commit history][commit-history] to see that my commits are *verified*. Also search for my public key in the [MIT PGP public key server][mit-pgp] with my email address, name, or the hexadecimal KeyID `0x888F8B7C1995D2ED`.
+
+In addition to following the [instructions][gpg-signing], I had to set a git configuration for the GPG directory on OS X.
 `git config --global gpg.program $(which gpg)`
 
 [gpg-signing]: https://help.github.com/articles/signing-commits-with-gpg/
+[commit-history]: https://github.com/mjkim610/mjkim610.github.io/commits/master
+[mit-pgp]: https://pgp.mit.edu/
